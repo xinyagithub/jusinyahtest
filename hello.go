@@ -4,6 +4,6 @@ package hello
 import "fmt"
 
 func Foo() {
-	fmt.Println("---v2.0.0---")
+	fmt.Println("---v20.5.0---")
 }
  

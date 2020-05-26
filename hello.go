@@ -1,5 +1,5 @@
 
-package pkg
+package hello
  
 import "fmt"
 
